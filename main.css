@@ -1,0 +1,395 @@
+html, body{
+    margin: 0;
+    font-family: 'Amiri';
+    font-size: large;
+    color: #E2CAA8;
+    background-color: #E2CAA8;
+}
+
+h1{
+    font-family: 'Cinzel';
+    padding: 20px 30px;
+    margin: 0;
+}
+
+p{
+    padding: 0px 30px;
+    margin: 0;
+    font-size: larger;
+}
+
+button{
+    font-family: 'Figtree';
+    font-size: large;
+    font-weight:500;
+    color: #E2CAA8;
+    height: 50px;
+    padding: 15px;
+    padding-bottom: 35px;
+    margin: 15px;
+    border-radius: 2px;
+    box-shadow: 0.1px 0.1px 15px 0.1px #341f1d;
+}
+
+div > div > div {
+    box-shadow: 0.1px 0.1px 20px 0.1px #341f1d;
+}
+
+img{
+    margin: 0;
+    padding: 0;
+    border-radius: 2px;
+    box-shadow: 0px 0px 20px 1px #341f1d;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    background-color: #E2CAA8;
+}
+
+/* Navbar container */
+.navbar {
+    overflow: hidden;
+    background-color: #00384C;
+    font-family: 'Figtree';
+    padding: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 1px 1px 20px 1px #341f1d;
+    position: fixed;
+    width: 100%;
+}
+
+.navbar > div {
+    box-shadow: none;
+}
+/* Links inside the navbar */
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #FEBB1D;
+    transition: all .4s ease;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+    display: none;
+    position: fixed;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    float: none;
+    color: black;
+    font-family: 'Figtree';
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #ddd;
+    transition: all .4s ease;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.contentPicture{
+    max-width: 100%; /* Ensure image doesn't exceed its container */
+    height: auto; /* Maintain aspect ratio */
+    flex: 1;
+}
+
+.multiCard{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 50px;
+    box-shadow: none;
+}
+
+#header{
+    margin-top: 68px;
+    background-color: #E2CAA8;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.rightBody{
+    border-radius: 10px;
+    background-color: #773124;
+    margin: 50px;
+    flex: 1;
+    align-self: center;
+    justify-self: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#showtwok{
+    margin-bottom: 20px;
+    border-color: #c76335;
+    background-color: #c76335;
+    justify-self: center;
+    align-self: center;
+}
+
+#showtwok:hover{
+    box-shadow: 1px 4px 10px 2px black;
+    transition: all .4s ease;
+}
+
+.halfPortrait{
+    max-width: 50%;
+}
+
+.halfLandscape{
+    max-width: 50%;
+}
+
+.thirdPortrait{
+    max-width: 33.33%;
+}
+
+.twoThirdsPortrait{
+    max-width: 66.66%;
+}
+
+.wayOfKings{
+    background-color: #773124;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.displaytwok {
+    display: none;
+}
+
+.leftBody{
+    border-radius: 10px;
+    background-color: #c76335;
+    padding: 20px;
+    margin: 0px;
+    flex: 1;
+    align-self: center;
+    justify-self: center;
+}
+
+#wokText2{
+    min-width: 35%;
+}
+
+.rowText{
+    min-width: 80%;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#wokText7{
+    min-width: 80%;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#showwor{
+    height: 50px;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    border-color: #c76335;
+    background-color: #c76335;
+    justify-self: center;
+    align-self: center;
+}
+
+#showwor:hover{
+    box-shadow: 1px 4px 10px 2px black;
+    transition: all .4s ease;
+}
+
+.wordsOfRadiance{
+    background-color: lightskyblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.displaywor {
+    display: none;
+}
+
+.rightBody2{
+    border-radius: 10px;
+    background-color: #0B596C;
+    padding: 20px;
+    margin: 0px;
+    flex: 1;
+    align-self: center;
+}
+
+#showo{
+    height: 50px;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    border-color: #0B596C;
+    background-color: #0B596C;
+    justify-self: center;
+    align-self: center;
+}
+
+#showo:hover{
+    box-shadow: 1px 4px 10px 2px black;
+    transition: all .4s ease;
+}
+
+.oathbringer{
+    background-color: #773124;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.displayo{
+    display: none;
+}
+
+#headshot4-2{
+    max-width: 40%;
+}
+
+#headshot4-3{
+    max-width: 60%
+}
+
+#margin{
+    margin: 0px 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+#oText6{
+    padding: 50px 0px 0px 0px;
+}
+
+#showrow{
+    justify-self: center;
+    align-self: center;
+    align-items: center;
+}
+
+#rhythmOfWar{
+    background-color: #773124;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.displayrow{
+    display: none;
+}
+
+@media screen and (max-width: 500px){
+    .thirdPortrait{
+        max-width: 100%;
+    }
+
+    .halfLandscape{
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header {
+        flex-direction: column; /* Change layout to column for smaller screens */
+    }
+
+    .multiCard{
+        flex-direction: column;
+    }
+
+    #wokText4{
+        padding-top: 0;
+    }
+}
+
+@media screen and (min-width: 956px) {
+    #headshot4-14{
+        max-width: 50%;
+    }
+}
+
+@media screen and (max-width: 956px) {
+    #wokText2{
+        min-width: 80%;
+    }
+
+    #wokText2 > div{
+        max-width: 100%;
+    }
+
+    #headshot2-15{
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 1284px){
+    #wayOfKings{
+        flex-direction: row;
+    }
+}
+
+@media screen and (min-width: 1284px){
+    #headshot3-10{
+        max-width: 50%;
+    }
+
+    #headshot3-12{
+        max-width: 60%;
+    }
+
+}
+
+@media screen and (min-width: 1758px){
+    #wokText{
+        min-width: 700px;
+    }
+}

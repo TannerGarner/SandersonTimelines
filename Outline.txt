@@ -1,0 +1,116 @@
+This project's aim is to track the timeline of various fictional characters from Brandon Sanderson’s novels.
+
+The goal is to easily view important life events in the fictional characters’ lives,
+and to provide an overview of important plot events for each book. 
+
+Design Elements:
+Typeography: 
+headings:Lugrasimo, Alegreya, Cinzel
+subheadings:Figtree(neutral), Signika Negative, Montserrat Alternates
+body:Libre Baskerville, Amiri, Vollkorn, 
+
+Color Palatte:
+background: sand #E2CAA8
+Nav Background: 
+Card Backgrounds: 
+
+
+First Priority: Characters,
+- Kaladin
+- Dalinar
+- Shallan
+- Szeth
+- Adolin
+- Renarin
+- Navani
+- Jasnah
+
+Second Priority: Book Summaries, 
+- Way of Kings
+- Words of Radiance
+- Oathbringer
+- Rhythm of War
+
+For Characters, there will be two options:
+Option 1: Following the character's experience in the order the books present them. 
+Option 2: The chronological character history. 
+
+Kaladin Event Outline
+WoK
+Slave Cages
+Bridge Runs
+Honorchasm/First Oath
+Young, Family scenes
+Highstorm
+Killing Shardbearer/Amaram's Betrayal
+Training in chasms
+Meeting Wit Wandersail
+Parshendi shield
+The Tower/Second Ideal
+Tien's Death
+Dalinar Trades Oathbringer
+Dalinar Hires Kaladin
+WoR
+Training Bodyguards (pic)
+Gives Shallan his Boot (pic)
+Amaram arrives at Shattered Plains/Kaladin tells Dalinar of Amaram's treachery
+Defends Dalinar from Szeth (pic)
+Trains with Zahel
+Learning his Powers/Renarin joins Bridge 4 (pic)
+Moash confides in Kaladin
+Shen reveals he is Rlain
+Kaladin guards Adolin and Shallan (Wit as carraige driver)
+Helps Adolin in the Disadvantaged Duel/Challenges Amaram (pic)
+Kaladin Imprisoned/Finds out Elhokar exiled Roshone/Bonds with Adolin/Gives Shards to Moash (pic)
+Sadeas Sabotage/Falls into Chasm with Shallan (pic)
+Drunk Elhokar confronts Kaladin (pic)
+Kaladn defends Elhokar against Moash and Graves (pic)
+Defends Dalinar from Szeth/Fights in the sky (pic)
+Bridge 4 gains some windrunner abilities. (pic)
+Oath
+Visits Hearthstone/Reunites w/Family/is over Roshone
+Travels with the Parshmen/diverts the highstorm/returns to Urithiru
+Mission to Kholinar
+Lost in Shadesmar/Thaylen Oathgate
+Battle of Thaylen Field
+ROW
+Evacuating Hearthstone/Rescuing the Mink/Meets the Pursuer-Lezian/Confronts Moash/Roshone is killed
+Dalinar relieves Kaladin of command- Kaladin worries over not swearing the 4th ideal. 
+Kaladin Becomes Depressed
+Fights Zahel
+Kaladin Settles family in Urithiru, becomes a surgeon again with his father/Helping the shellshocked-PTSD retired soldiers with Teft. Helps with depression. 
+
+
+Option 1: Kaladin Text
+
+Intro Text
+Kaladin is a young gifted soldier and field surgeon. 
+He has known adversity and loss throughout his life. 
+He has suffered repeated oppression and betrayal by the lighteyed nobility, 
+Kaladin is driven to protect others, and takes personal responsibility for the failure or death of anyone he loves.
+
+
+Way of Kings
+Kaladin is the focus character of the Way of Kings. His story line cuts back and forth in time between a key event while in Amaram's army. 
+Kaladin's first appearance is as a squadleader in Amaram's army. 
+He tries to defend young, unskilled men, paying extra to keep them. 
+
+His storyline then cuts to his time as a slave under Tvlakv. While in the slave wagons he has his first conversations with a seemingly inteligent windspren. 
+He is sold to Sadeas's warcamp at the Shattered Plains, where he is placed in Bridge Four, 
+and made to run headlong into enemy fire with the rest of his bridgecrew to give the army a way to cross the chasms. 
+Kaladin miraculously survives while running at the front of the bridgecrew, where both his neighbors were cut down and many other bridgemen. 
+
+Kaladin contemplates suicide, before deciding with Syl's help to continue fighting. Kaladin works to improve the life of his bridgecrew. 
+He trains them for endurance, saves the lives of injured bridgemen, slowly helps them gain optimisim, and helps them see themselves as soldiers. 
+Kaladin also plans to find a way to escape from Sadeas's army. 
+
+Kaladin faces the internal struggles of his inability to save those around him and his distrust of any lighteyes.
+
+As the focus character of The Way of Kings, Kaladin's past is viewed through the use of flashbacks. 
+The flashbacks show his childhood and his surgeon apprenticeship under his father, as well as how he joins the army and why he became a slave.
+
+Words of Radiance
+
+Oathbringer
+
+Rhythm of War

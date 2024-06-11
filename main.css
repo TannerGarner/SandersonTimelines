@@ -4,6 +4,8 @@ html, body{
     font-size: large;
     color: #E2CAA8;
     background-color: #E2CAA8;
+    width: 100%;
+    overflow-x: visible;
 }
 
 h1{
@@ -46,6 +48,12 @@ img{
     display: flex;
     flex-direction: column;
     background-color: #E2CAA8;
+    width: 100%;
+}
+
+#container > * {
+    max-width: 100%;
+    box-sizing: border-box;
 }
 
 /* Navbar container */
@@ -142,6 +150,7 @@ img{
     gap: 2rem;
     padding: 50px;
     box-shadow: none;
+    max-width: 100%;
 }
 
 #header{
@@ -150,6 +159,7 @@ img{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    max-width: 100%;
 }
 
 .rightBody{
@@ -161,6 +171,8 @@ img{
     justify-self: center;
     display: flex;
     flex-direction: column;
+    word-wrap: break-word;
+    max-width: 100%;
 }
 
 #showtwok{
@@ -197,6 +209,7 @@ img{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    max-width: 100%;
 }
 
 .displaytwok {
@@ -211,6 +224,8 @@ img{
     flex: 1;
     align-self: center;
     justify-self: center;
+    word-wrap: break-word;
+    max-width: 100%;
 }
 
 #wokText2{
@@ -250,6 +265,7 @@ img{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    max-width: 100%;
 }
 
 .displaywor {
@@ -263,6 +279,8 @@ img{
     margin: 0px;
     flex: 1;
     align-self: center;
+    word-wrap: break-word;
+    max-width: 100%;
 }
 
 #showo{
@@ -286,6 +304,7 @@ img{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    max-width: 100%;
 }
 
 .displayo{
@@ -316,11 +335,12 @@ img{
     align-items: center;
 }
 
-#rhythmOfWar{
+.rhythmOfWar{
     background-color: #773124;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    max-width: 100%;
 }
 
 .displayrow{
@@ -328,6 +348,27 @@ img{
 }
 
 @media screen and (max-width: 500px){
+    #headerBody{
+        margin: 20px;
+    }
+
+    .multiCard{
+        padding: 20px;
+        gap: 1rem;
+    }
+
+    .rightBody{
+        padding: 0px;
+    }
+
+    .leftBody{
+        padding: 0px 0px 20px 0px;
+    }
+
+    .rightBody2{
+        padding: 0px 0px 20px 0px;
+    }
+
     .thirdPortrait{
         max-width: 100%;
     }

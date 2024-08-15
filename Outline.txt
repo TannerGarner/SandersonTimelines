@@ -1,7 +1,15 @@
-This project's aim is to track the timeline of various fictional characters from Brandon Sanderson’s novels.
 
-The goal is to easily view important life events in the fictional characters’ lives,
+
+Welcome to the Sanderson Timeline Archives. This project's aim is to track the timeline of various 
+fictional characters from Brandon Sanderson’s novels.
+
+The goal is to easily view important life events in the characters’ lives,
 and to provide an overview of important plot events for each book. 
+
+First priority will be given to the Stormlight Archive, as the books are lengthy and can be a task 
+to read through again each time a sequel is released. 
+Second priority will be given to the Mistborn world, as these are the next largest body of work and 
+will assuredly play a large role in the Stormlight Archive. 
 
 Design Elements:
 Typeography: 
@@ -14,22 +22,34 @@ background: sand #E2CAA8
 Nav Background: 
 Card Backgrounds: 
 
+Essential: Homepage
+- Intro + Pictures 
+- Art Credits, links to artists Instagrams, Coppermind shoutout. 
+- Onpage links to timelines. 
 
-First Priority: Characters,
+First Priority: Book Summaries, 
+- Way of Kings
+- Words of Radiance
+- Oathbringer
+- Rhythm of War
+
+Second Priority: Characters,
 - Kaladin
 - Dalinar
 - Shallan
 - Szeth
 - Adolin
-- Renarin
+- Lift
+- Eshonai
+- Venli
+- Taravangian
 - Navani
 - Jasnah
-
-Second Priority: Book Summaries, 
-- Way of Kings
-- Words of Radiance
-- Oathbringer
-- Rhythm of War
+- Moash
+- Renarin
+- Tanavast/Honor
+- Cultivation
+- Rayse/Odium
 
 For Characters, there will be two options:
 Option 1: Following the character's experience in the order the books present them. 
@@ -91,17 +111,23 @@ Kaladin is driven to protect others, and takes personal responsibility for the f
 
 
 Way of Kings
-Kaladin is the focus character of the Way of Kings. His story line cuts back and forth in time between a key event while in Amaram's army. 
-Kaladin's first appearance is as a squadleader in Amaram's army. 
-He tries to defend young, unskilled men, paying extra to keep them. 
+Kaladin is the focus character of the Way of Kings. 
+His story line cuts back and forth in time between his youth and the current time during his 20s.  
+Kaladin's first appearance is as a squadleader in Amaram's army at about 18 years old. 
+He tries to defend young, unskilled men, paying extra to keep them in his squad. 
 
-His storyline then cuts to his time as a slave under Tvlakv. While in the slave wagons he has his first conversations with a seemingly inteligent windspren. 
+His storyline then cuts to his time as a slave under Tvlakv as an adult. 
+While in the slave wagons he has his first conversations with a seemingly inteligent windspren. 
 He is sold to Sadeas's warcamp at the Shattered Plains, where he is placed in Bridge Four, 
 and made to run headlong into enemy fire with the rest of his bridgecrew to give the army a way to cross the chasms. 
-Kaladin miraculously survives while running at the front of the bridgecrew, where both his neighbors were cut down and many other bridgemen. 
+Kaladin miraculously survives while running at the front of the bridgecrew, 
+where both his neighbors were cut down and many other bridgemen. 
 
-Kaladin contemplates suicide, before deciding with Syl's help to continue fighting. Kaladin works to improve the life of his bridgecrew. 
-He trains them for endurance, saves the lives of injured bridgemen, slowly helps them gain optimisim, and helps them see themselves as soldiers. 
+
+Kaladin contemplates suicide at the Honorchasm, before deciding with Syl's help to continue fighting. 
+Kaladin regains motivation and bribes Gaz, the sergeant over the bridgecrews, to make him bridgeleader. 
+He works to improve the life of his bridgecrew, forcing them to train so they will have a better chance 
+of survival, slowly helping them gain optimisim. Eventually they see themselves  helps them see themselves as soldiers. 
 Kaladin also plans to find a way to escape from Sadeas's army. 
 
 Kaladin faces the internal struggles of his inability to save those around him and his distrust of any lighteyes.

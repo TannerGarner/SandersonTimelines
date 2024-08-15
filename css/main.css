@@ -116,18 +116,19 @@ img{
 }
 
 /* Links inside the dropdown */
-.dropdown-content a {
+.dropdown-content div {
     float: none;
     color: black;
     font-family: 'Figtree';
+    font-size:medium;
     padding: 12px 16px;
     text-decoration: none;
-    display: block;
     text-align: left;
+    box-shadow: none;
 }
 
 /* Add a grey background color to dropdown links on hover */
-.dropdown-content a:hover {
+.dropdown-content div:hover {
     background-color: #ddd;
     transition: all .4s ease;
 }
@@ -135,12 +136,85 @@ img{
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
+    transition: all .4s ease;
 }
+
+.sideslide > p {
+    font-family: 'Figtree';
+    font-size: large;
+}
+
+.sscontent {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: 0;
+    padding: 0px;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    max-height: 90vh; /* Adjust as needed */
+    overflow-y: auto;
+    column-count: 2; /* Adjust the number of columns */
+    column-gap: 20px; /* Adjust the gap between columns */
+}
+
+.sscontent a {
+    float: none;
+    color: black;
+    font-family: 'Figtree';
+    font-size: medium;
+    padding: 12px 16px;
+    margin: 0px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    break-inside: avoid;
+}
+
+#characters:hover .sscontent{
+    display: block;
+    transition: all .4s ease;
+}
+
+#books:hover .sscontent{
+    display: block;
+    transition: all .4s ease;
+}
+
+#fastcatch {
+    padding: 0;
+    margin: 15px 0px;
+}
+
+#fastcatchlink{
+    color: black;
+    font-family: 'Figtree';
+    font-size: large;
+    float: none;
+    padding: 15px 32px;
+    margin: 0;
+}
+
+/*specific*/
 
 .contentPicture{
     max-width: 100%; /* Ensure image doesn't exceed its container */
     height: auto; /* Maintain aspect ratio */
     flex: 1;
+}
+
+#banner{
+    margin-top: 65px;
+}
+
+#homeheader{
+    margin: 68px;
+}
+
+#headercontent > * {
+    color: black;
 }
 
 .multiCard{
@@ -160,6 +234,10 @@ img{
     flex-direction: row;
     flex-wrap: wrap;
     max-width: 100%;
+}
+
+#header > img{
+    margin-top: 0;
 }
 
 .rightBody{
